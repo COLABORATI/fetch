@@ -30,7 +30,7 @@ expected to uphold this code.
 
 * If you believe you found a bug with how `fetch` behaves in Chrome or Firefox,
   please **don't open an issue in this repository**. This project is a
-  _polyfill_, and since Chrome and Firefox both implement the `window.fetch`
+  [_polyfill_](https://en.wikipedia.org/wiki/Polyfill), and since Chrome and Firefox both implement the `window.fetch`
   function natively, no code from this project actually takes any effect in
   these browsers. See [Browser support](#browser-support) for detailed
   information.
